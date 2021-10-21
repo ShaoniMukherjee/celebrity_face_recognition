@@ -30,10 +30,11 @@ Here is the folder structure,
 * images_dataset: Dataset used for our model training
 
 Technologies used in this project,
-1. Python
-2. Numpy and OpenCV for data cleaning
-3. Matplotlib & Seaborn for data visualization
-4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Python flask for http server
-7. HTML/CSS/Javascript for UI
+1. Python ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+2. Numpy and OpenCV for data cleaning ![image](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) 
+3. ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+4. Matplotlib & Seaborn for data visualization 
+5. Sklearn for model building ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+6. Jupyter notebook, visual studio code and pycharm as IDE ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+7. Python flask for http server ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+8. HTML/CSS/Javascript for UI
