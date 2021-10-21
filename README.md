@@ -33,8 +33,9 @@ Technologies used in this project,
 1. Python ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 2. Numpy and OpenCV for data cleaning ![image](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) 
 3. ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-4. Matplotlib & Seaborn for data visualization 
+4. Matplotlib & Seaborn for data visualization![image](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=4EA94B)![image](https://img.shields.io/badge/Seaborn-white?style=for-the-badge&logo=Seaborn&logoColor=4EA94B)
 5. Sklearn for model building ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 6. Jupyter notebook, visual studio code and pycharm as IDE ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-7. Python flask for http server ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-8. HTML/CSS/Javascript for UI
+7. ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+8. Python flask for http server ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+9. HTML/CSS/Javascript for UI
