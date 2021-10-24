@@ -3,7 +3,13 @@
 
 # Celebrity_face_recognition
 
-End to end project
+An End to end deep learning project
+
+Data wrangling with Pandas 
+Deep learning with Keras, tensorflow, random Forest
+Web app with Flask (and a bit of CSS & HTML)
+App deployment with Flask and Heroku
+
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people, further i have taken help fro the youtube channel codebasics.
 We have used deep learning Opencv library to process the image file;
 Harcasscades to detect the faces and eyes of the faces.
